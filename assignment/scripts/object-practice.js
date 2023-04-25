@@ -56,3 +56,6 @@ console.log( 'I now have', me.shoeCount  ,'pair of shoes');
   - Console.log your object
 */
 
+console.log('Favorite color =', me.favoriteColor = 'green');
+
+console.log(me);
